@@ -1,3 +1,24 @@
-# House Price Prediction Model
+# House Price Prediction API
 
-This project predicts house prices based on features such as Overall Quality, Ground Living Area, Garage Cars, and Total Basement Area. The model is built using Python, Flask, and scikit-learn, and is deployed on Heroku.
+## Overview
+
+The House Price Prediction API is a Flask-based web service that predicts house prices based on provided features. This application uses a pre-trained machine learning model to provide price predictions for real estate properties.
+
+## Features
+
+- **Predict House Prices**: Submit features of a house to get an estimated price.
+- **Easy to Use**: Simple REST API interface.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.11 or later
+- Pip (Python package installer)
+- Git
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/house-price-prediction.git
+cd house-price-prediction
